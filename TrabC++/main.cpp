@@ -8,4 +8,5 @@ using namespace std;
 int main()
 {
     functionMenu();
+    return 0;
 }
