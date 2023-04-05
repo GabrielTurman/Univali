@@ -436,6 +436,7 @@ void functionMenu()
 					"Esse jogo foi desenvolvido pelos alunos do curso de Ciencias da computacao\n"
 					"da universidade do vale do Itajai(UNIVALI), para materia de algoritmos e programacao 2\n"
 					"lecianada pelo professor Thiago Felski.\n"
+				"Alunos responsaveis: Gabriel Turman, Vinicius Grisa, Marco Antonio Martins Akerman\n"
 				 << endl;
 			system("pause");
 			system("cls");
