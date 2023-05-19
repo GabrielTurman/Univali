@@ -1,12 +1,12 @@
 #include <iostream>
 #include <windows.h>
 #include <conio.h>
-#include "funcoes.cpp"
+#include "piloto.cpp"
 
 using namespace std;
 
 int main()
 {
-    functionMenu();
-    return 0;
+   Principal menu;
+   menu.functionMenu();
 }
